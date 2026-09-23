@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3645d1768eeb3de8d241d2c7",
+  "owner": "fcak4dfp",
+  "repo": "page-c06b357a5aafcb3f12a5b757",
+  "title": "无界云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c06b357a5aafcb3f12a5b757",
+      "a": "无界云",
+      "b": "2027最新官网",
+      "entity": "无界云",
+      "brand": "无界云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3a4cfa6eca932eec990e4990fd8d6a80bd3fbe41e024110b52e9a0fed6b569f4",
+      "content": {
+        "primary_entity": "无界云",
+        "keyword1": "无界云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "常见客户端按设备类型选择，桌面端与移动端各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选套餐配订阅",
+          "AI_DESCRIPTION": "，无界云提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35 与 ¥85，按年付可享受更优价格。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，并包含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备，适合多人共享。选择套餐时先确认同时在线设备数量，再对照月度流量需求，最后按年付或月付决定订阅周期。客户端方面，Windows、macOS、Android、iOS 均有对应配置文档，按订阅链接导入即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量和订阅周期三个角度对比三档套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线需求选择。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，流量决定套餐档位。",
+          "AI_FEATURE_TEXT_3": "各档套餐按年付均有优惠，长期使用可优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按照选择服务、查看适配要求、导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "无界云提供多种套餐与客户端配置方案，从设备数量、月流量到订阅周期，帮助选择适合的加速服务。",
+          "AI_HERO_SUBTITLE": "多套餐多设备配置",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，300GB 流量",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB 流量",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版兼顾流量与设备数量，团队版面向多人共享场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与每月流量用量，从基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度与订阅周期，确认与使用需求匹配。",
+          "AI_STEP_TEXT_3": "按所用设备类型打开对应客户端文档，导入订阅链接并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "无界云套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐差异、设备限制、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备、每月 100GB 流量；旗舰版提升到 5 台设备、300GB 流量，并包含 IPLC 专线；团队版支持 20 台设备和 1000GB 流量，另有企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150 相当于每月约 ¥12.5，旗舰版年付 ¥350、团队版年付 ¥850，均低于按月支付累计总额，相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后获取订阅链接，在 Clash、Shadowrocket、Surge 等客户端中选择从 URL 导入，粘贴链接更新配置即可，具体步骤可参考对应客户端文档。",
+          "AI_FAQ_QUESTION_4": "最多支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_4": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按套餐区分，超量需要升级或减少同时连接数量。",
+          "AI_FAQ_QUESTION_5": "如何从基础版升级到旗舰版？",
+          "AI_FAQ_ANSWER_5": "在账户内选择升级套餐，补足差价后新套餐权益即时生效，设备数和月流量按旗舰版标准执行，具体以账户内操作流程为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqw55gxyv.org",
+    "host": "xn--9kqw55gxyv.org"
+  },
+  "file_hashes": {
+    "index.html": "4eb62da07d72ad3dc724a1e8bbdb9b2fec96be9e70fb334e2d8cc59f2e021487",
+    "sitemap.xml": "fda0198643e3c5802a3392bd4a0444b21855f8077d737a5a3b155f75f2389cf6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b743afbcb5164c4ab897f17bdbbd44e32c21b7ef2ca599b512e4895f8b731c35",
+    "robots.txt": "65a2028f45ff5e7639943a0ca87679cbc66f6ec3dae1e1e80cddd5e86ace1c29",
+    "a14d8b004e6d26030e7f972ef5d2d447.txt": "8c3dcbb6026f4c548867d13297c4796e63eb0a05b4e308213d4d114998e633ff"
+  },
+  "revision": "8c6af796c43b26abed4c5e550eaa0d48253be8a9fb72ca40539473f1dc4a613c"
+}
